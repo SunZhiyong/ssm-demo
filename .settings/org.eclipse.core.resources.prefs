@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/com/bonc/SpringWeb/controller/AbstractController.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/controller/UserController.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/dao/UserDao.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/entity/User.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/service/PasswordException.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/service/UserNotFoundException.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/service/UserService.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/service/impl/UserServiceImpl.java=UTF-8
+encoding//src/main/java/cn/com/bonc/SpringWeb/util/JsonResult.java=UTF-8
